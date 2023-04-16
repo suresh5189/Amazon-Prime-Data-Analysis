@@ -5,7 +5,7 @@ Additionally, Amazon Prime Video collects user data, including viewing history, 
 Amazon Prime Video also has content data, which includes information on the movies and TV shows available on the platform. This data includes metadata such as the title, description, cast and crew, and ratings.
 Overall, while there are some publicly available datasets related to Amazon Prime Video, much of the data the platform collects is proprietary and kept confidential.
 ## LINKS
-TABLEU DASHBOARD : [Link](https://public.tableau.com/views/Netflix_16816478950900/AmazonPrime?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)</br>
+TABLEU DASHBOARD : [Link](https://public.tableau.com/shared/G4CZGMKKS?:display_count=n&:origin=viz_share_link)</br>
 DATA SOURCE : [Link](https://www.kaggle.com/datasets/suresh242/netflix)
 ## Contributors
 <table>
